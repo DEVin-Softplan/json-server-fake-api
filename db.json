@@ -1,0 +1,24 @@
+{
+  "foruns": [
+    {
+      "id": 1,
+      "titulo": "Testes unitários",
+      "descricao": "Por onde começo para escrever testes unitários utilizando ReactJS?",
+      "usuario": "Thais"
+    },
+    {
+      "id": 1,
+      "titulo": "TDD",
+      "descricao": "Como utilizar TDD com ReactJS?",
+      "usuario": "Thais"
+    }
+  ],
+
+  "comentariosForuns": [
+    {
+      "idForum": 1,
+      "texto": "Começa escolhendo as bibliotecas que irá utilizar, realiza a instalação delas, configura o que for necessário e depois inicia a codificação dos mesmos.",
+      "usuario": "Maria"
+    }
+  ]
+}
